@@ -109,20 +109,27 @@ Versión beta de un chatbot sencillo en HTML + JavaScript.
 ## 📫 Contacto
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/fernando-leonardo-flores-marín-7868b5272">
-    <img src="https://img.shields.io/badge/LinkedIn-Fernando%20Flores-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/fernando-leonardo-flores-marín-7868b5272" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Fernando%20Flores-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn - Fernando Flores"/>
   </a>
-  <a href="https://wa.me/593991713459">
-    <img src="https://img.shields.io/badge/WhatsApp-0991713459-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  
+  <!-- Email -->
+  <a href="mailto:fernandoleonardofloresmarin@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contáctame-1D4ED8?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo - Fernando Flores"/>
+  </a>
+  
+  <!-- WhatsApp -->
+  <a href="https://wa.me/593991713459" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-0991713459-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp - Fernando Flores"/>
   </a>
 </p>
-
-📍 Guayaquil – Ecuador  
-📧 **fernandoleonardofloresmarin@gmail.com**
-
----
 
 <p align="center">
-  <b>“La disciplina supera al talento. La seguridad es constancia.”</b>
+  <sub>Siempre abierto a colaborar, aprender y participar en proyectos de ciberseguridad, infraestructura y desarrollo .NET.</sub>
 </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Hacker at work"/>
+</p>
+
 
