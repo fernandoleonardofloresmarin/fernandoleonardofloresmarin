@@ -7,7 +7,7 @@
 # 👋 ¡Bienvenidos a mi perfil de GitHub!
 
 ## 🛡️ Fernando Leonardo Flores Marín  
-### *Cybersecurity Analyst | Pentesting | Linux Server | .NET Dev | Networks & Telecom | SQL Databases | IT Support & Projects*
+### *Ciberseguridad | Redes & Telecomunicaciones | Servidores Linux/Windows | Pentesting | .NET & Python | SQL | Infraestructura & Soporte TI*
 
 ---
 
