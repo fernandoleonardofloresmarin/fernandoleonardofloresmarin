@@ -105,7 +105,6 @@ Linux server configuration with firewall, users, permissions and security polici
 Beta version of a simple chatbot in HTML + JavaScript.
 
 ### 🦁 RedLeo Enterprise
-
 **RedLeo-Enterprise**
 Linux security toolkit for automation, hardening and log analysis.
 
