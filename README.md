@@ -4,39 +4,39 @@
   <img src="portada.png" width="100%" alt="Fernando Leonardo Flores Marín - Cybersecurity and Linux Programming Specialist"/>
 </p>
 
-# 👋 ¡Bienvenidos a mi perfil de GitHub!
+# 👋 Welcome to my GitHub profile!
 
 ## 🛡️ Fernando Leonardo Flores Marín  
 ### *Ciberseguridad | Redes & Telecomunicaciones | Servidores Linux/Windows | Pentesting | .NET & Python | SQL | Infraestructura & Soporte TI*
 
 ---
 
-## 🧑‍💻 Sobre mí
+## 🧑‍💻 About me
 
-Soy un profesional en formación con enfoque en **ciberseguridad ofensiva**, **administración de sistemas Linux y Windows**, **pentesting**, **redes y telecomunicaciones** y **desarrollo .NET**.
+I am a professional in training with a focus on **ciberseguridad ofensiva**, **administración de sistemas Linux y Windows**, **pentesting**, **redes y telecomunicaciones** and **desarrollo .NET**.
 
-Me gusta verme siempre como:
+I like to always see myself as:
 
-- 👨‍🎓 **Estudiante constante** (siempre aprendiendo algo nuevo)  
-- 💼 **Profesional responsable**, orientado a buenas prácticas y documentación  
-- 🛡️ Alguien que busca **fortalecer la seguridad y estabilidad** de la infraestructura TI  
+- 👨‍🎓 **Constant student** (always learning something new)  
+- 💼 **Responsible professional**, focused on good practices and documentation 
+- 🛡️ Someone looking **Strengthen the security and stability of the IT infrastructure 
 
-Actualmente continúo fortaleciendo mis competencias en:
+I am currently continuing to strengthen my skills in:
 
 - 🔐 Pentesting (Nmap, Burp Suite, Wireshark, Metasploit)  
-- 🛰️ Redes y Telecomunicaciones  
+- 🛰️ Networks and Telecommunications  
 - 🐧 Linux Server, hardening y monitoreo  
-- 🖥️ Programación .NET (C#, APIs, MVC)  
-- 🛢️ Bases de datos SQL Server / MySQL  
-- ⚙️ Automatización en Bash, PowerShell y Python  
-- 🌐 Desarrollo web básico (HTML, CSS, JavaScript)  
-- 🧠 IA y Ciencia de Datos aplicada a proyectos TI  
+- 🖥️ Programming .NET (C#, APIs, MVC)  
+- 🛢️ Databases SQL Server / MySQL  
+- ⚙️ Automation in Bash, PowerShell y Python  
+- 🌐 Professional web development (HTML, CSS, JavaScript)  
+- 🧠 AI and Data Science applied to IT projects
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## 🛠️ Technologies and Tools
 
-### 🔹 Lenguajes de programación y marcado
+### 🔹 Programming and markup languages
 
 <p>
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
@@ -47,7 +47,7 @@ Actualmente continúo fortaleciendo mis competencias en:
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-### 🔹 Ciberseguridad
+### 🔹 Cybersecurity
 
 <p>
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
@@ -56,14 +56,14 @@ Actualmente continúo fortaleciendo mis competencias en:
   <img src="https://img.shields.io/badge/Wireshark-1679A3?style=for-the-badge&logo=wireshark&logoColor=white"/>
 </p>
 
-### 🔹 Servidores & Infraestructura
+### 🔹 Servers & Infrastructure
 
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 </p>
 
-### 🔹 Bases de Datos
+### 🔹 Databases
 
 <p>
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
@@ -72,7 +72,7 @@ Actualmente continúo fortaleciendo mis competencias en:
 
 ---
 
-## 🎓 Certificaciones
+## 🎓 Certifications
 
 - 🧠 *Cursor con Python: Desarrollo Inteligente con IA* – Santander  
 - 📊 *Introducción a la Ciencia de Datos* – Santander  
@@ -90,23 +90,23 @@ Actualmente continúo fortaleciendo mis competencias en:
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🚀 Featured Projects
 
-### 🔧 Automatización Linux  
+### 🔧 Linux Automation
 **Script-en-Python-para-automatizar-mantenimiento-de-sistemas**  
-Automatización de logs, servicios, limpieza, monitoreo y reportes en sistemas Linux.
+Automation of logs, services, cleaning, monitoring and reporting in Linux systems.
 
-### 🔐 Ciberseguridad / Servidores  
+### 🔐Cybersecurity / Servers
 **Configuración-de-servidor-Linux-con-medidas-de-seguridad**  
-Configuración de servidor Linux con firewall, usuarios, permisos y políticas de seguridad.
+Linux server configuration with firewall, users, permissions and security policies.
 
 ### 🤖 IA & Chatbots  
 **Inteligencia-artificial-con-html-Beta**  
-Versión beta de un chatbot sencillo en HTML + JavaScript.
+Beta version of a simple chatbot in HTML + JavaScript.
 
 ---
 
-## 📫 Contacto
+## 📫 Contact
 
 <p align="center">
   <!-- LinkedIn -->
@@ -126,7 +126,7 @@ Versión beta de un chatbot sencillo en HTML + JavaScript.
 </p>
 
 <p align="center">
-  <sub>Siempre abierto a colaborar, aprender y participar en proyectos de ciberseguridad, infraestructura y desarrollo .NET.</sub>
+  <sub>Always open to collaborating, learning and participating in cybersecurity, infrastructure and .NET development projects.</sub>
 </p>
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Hacker at work"/>
