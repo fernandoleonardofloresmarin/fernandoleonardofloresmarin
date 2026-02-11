@@ -112,6 +112,7 @@ Beta version of a simple chatbot in HTML + JavaScript.
 RedLeo Enterprise – Network & Security Suite
 Linux security toolkit for automation, hardening and log analysis.
 
+More projects uploaded, check it out!!
 ---
 
 ## 📫 Contact
