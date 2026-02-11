@@ -84,7 +84,7 @@ I am currently continuing to strengthen my skills in:
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=fernandoleonardofloresmarin&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=fernandoleonardofloresmarin&show_icons=true&theme=tokyonight&count_private=true"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoleonardofloresmarin&layout=compact&theme=tokyonight"/>
 </p>
 
