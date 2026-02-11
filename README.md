@@ -78,7 +78,7 @@ I am currently continuing to strengthen my skills in:
 - 📊 *Introducción a la Ciencia de Datos* – Santander  
 - 🛡️ *Especialista en Ciberseguridad Ofensiva & Programación en Linux* – NIMY  
 - 🖥️ *Master of Secure Software Server Operations* – Academia ZCI  
-
+- 🧠 I have obtained more international certificates and degrees, contact me to find out which ones.
 ---
 
 ## 📈 GitHub Stats
