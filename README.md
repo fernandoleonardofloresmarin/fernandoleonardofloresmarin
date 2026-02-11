@@ -19,8 +19,7 @@ I like to always see myself as:
 
 - 👨‍🎓 **Constant student** (always learning something new)  
 - 💼 **Responsible professional**, focused on good practices and documentation 
-- 🛡️ Someone looking**, Strengthen the security and stability of the IT infrastructure 
-I am currently continuing to strengthen my skills in:
+- 🛡️ Someone looking
 - 🔐 Pentesting (Nmap, Burp Suite, Wireshark, Metasploit)  
 - 🛰️ Networks and Telecommunications  
 - 🐧 Linux Server, hardening y monitoreo  
